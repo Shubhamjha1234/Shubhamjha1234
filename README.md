@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web-dev
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me jha122023@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: .An Absolute learner..
 - ⚡ Fun fact: ...
 
 <!---
