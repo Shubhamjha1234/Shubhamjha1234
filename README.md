@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jha122023@gmail.com**
 
-- ⚡ Fun fact **I am Explorer!!**
+- ⚡ Fun fact **I am an Explorer!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
