@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubham-portfolio-tawny.vercel.app/](https://shubham-portfolio-tawny.vercel.app/)
 
-- 💬 Ask me about **JS , CSS , HTML , JAVA , PYTHON , OOPS**
+- 💬 Ask me about **React ,JS , CSS , HTML , JAVA , PYTHON , OOPS**
 
 - 📫 How to reach me **jha122023@gmail.com**
 
