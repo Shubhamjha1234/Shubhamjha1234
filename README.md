@@ -1,24 +1,112 @@
-<h1 align="center">Hi 👋, I'm Shubham Jha</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<!-- 🌐 Shubham Jha | GitHub Profile README -->
 
-- 🔭 I’m currently working on [Axorra](axorra-ai.vercel.app)
+<h1>👋 Hi, I'm Shubham Jha</h1>
+<h3>🚀 AI Agents & Automation Builder | B.Tech CSE | Building SaaS</h3>
 
-- 🌱 I’m currently learning **AI Agents , Automation tools .**
-
-- 👨‍💻 All of my projects are available at [https://shubham-portfolio-tawny.vercel.app/](https://shubham-portfolio-tawny.vercel.app/)
-
-- 💬 Ask me about **React ,JS , CSS , HTML , JAVA , PYTHON , OOPS**
-
-- 📫 How to reach me **jha122023@gmail.com**
-
-- ⚡ Fun fact **I am an Explorer!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubhamjha2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamjha2024" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhamjha-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamjha-dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubham_jha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_jha1" height="30" width="40" /></a>
+<p>
+  <em>I build AI agents, automation workflows, and SaaS products that solve real problems.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ShubhamJha&label=Profile%20views&color=blue&style=plastic" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 **B.Tech Computer Science (3rd Year)**
+- 🤖 Building **AI Agents & Automation Systems**
+- 🚀 Founder of **Axorra – AI Automation SaaS**
+- 🔭 Currently working on **AI workflow automation & SaaS products**
+- 🌱 Learning **Advanced AI Agents, System Design, and Scalable SaaS**
+- 💡 Interested in **AI Agents, Automation, SaaS, and Startups**
+- 🎯 Goal: **Build impactful AI-first products used by businesses**
+- 🧩 Open to **AI internships, hackathons, and collaborations**
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Automation-n8n%20%7C%20LangChain%20%7C%20LLMs-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20MongoDB-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Python%20%7C%20OpenAI%20%7C%20AI%20Agents-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,tailwind,docker,aws,git,firebase,figma" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+🔹 **AI Skill Match & Gap Agent**  
+Agent that compares resumes with job descriptions and gives skill match insights.
+
+🔹 **AI Recruiter Outreach Agent**  
+Automatically finds recruiter posts and sends personalized outreach emails.
+
+🔹 **Student Feedback SaaS Platform**  
+Anonymous communication platform between students and institutions.
+
+🔹 **Creator–Brand Collaboration Platform**  
+AI platform connecting brands with niche creators.
+
+🔹 **Axorra – AI Automation Platform**  
+Building scalable AI agents and workflow automation tools for businesses.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamJha&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+---
+
+## 📚 Learning Journey
+
+Currently exploring:
+
+- AI Agents Architecture  
+- Automation Systems with **n8n**
+- LLM Integrations  
+- SaaS Product Building  
+- System Design for AI Applications
+
+---
+
+## 💬 Connect With Me
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/yourx"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://leetcode.com/yourleetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+## 🤝 Collaboration
+
+I love collaborating on:
+
+- AI Agent Projects
+- Automation Tools
+- SaaS Products
+- Hackathons & Open Source
+
+If you want to build something impactful together, feel free to reach out 🚀
+
+---
+
+### ☕ Support
+
+<p align="center">
+  <em>💡 "Build useful AI, automate boring work, and create products that matter."</em>
+</p>
