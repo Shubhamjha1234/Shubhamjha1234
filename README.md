@@ -60,13 +60,6 @@ Building scalable AI agents and workflow automation tools for businesses.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamJha&layout=compact&theme=tokyonight" height="150" />
-</div>
-
----
 
 ## 📚 Learning Journey
 
