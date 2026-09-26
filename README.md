@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **B.Tech Computer Science (3rd Year)**
+- 🎓 **B.Tech Computer Science (4th Year)**
 - 🤖 Building **AI Agents & Automation Systems**
 - 🚀 Founder of **Axorra – AI Automation SaaS**
 - 🔭 Currently working on **AI workflow automation & SaaS products**
